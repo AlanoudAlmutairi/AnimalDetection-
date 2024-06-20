@@ -1,2 +1,2 @@
 # AnimalDetection
-Multimedia project (CPPIT 380 )
+-- Multimedia project (CPPIT 380 ) -- ** group project **
